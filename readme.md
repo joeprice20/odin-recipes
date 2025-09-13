@@ -1,6 +1,8 @@
 # Credits
 
-Here are the sources of where I got the recipes from:
+The recipes shown on this website are purely for demonstration purposes and are not mine!
+
+Original Recipes:
 
 - [Brilliant Banana Loaf (BBC GoodFood)](https://www.bbcgoodfood.com/recipes/brilliant-banana-loaf)
 - [Best Ever Macaroni Cheese (BBC GoodFood)](https://www.bbcgoodfood.com/recipes/best-ever-macaroni-cheese-recipe)
